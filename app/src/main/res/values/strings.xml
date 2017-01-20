@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zinza Controller</string>
+    <string name="onStatus">All Lights On</string>
+    <string name="offStatus">All Lights Off</string>
+</resources>
